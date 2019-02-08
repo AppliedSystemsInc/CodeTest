@@ -1,7 +1,12 @@
 Please build the landing page to the following specifications:
 
-Fully responsive accross all browsers/mobile devices
-Uses the skeleton responsive framework
-Include a form that directs user to a thank you page 
-Form must be responsive and include front end validation 
-Form does not need to process the information (we use Marketo forms for data handling)
+* Fully responsive accross all browsers/mobile devices.
+  - Use the skeleton responsive framework. (http://getskeleton.com/)
+* Content must scroll against a static background image.
+* The form should follow users as they scroll.
+* The form should direct users to a thank you page after submission.
+  - Do not worry about any back-end processing of form information.
+* The form must be responsive and include front end validation.
+  - The form should wrap underneath main content on the left-hand side.
+  - Copyright and link to privacy policy should be below form.
+  - Use mobile mobile mock up provided.
